@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.png" width="100%" alt="dark red rose banner" /><br />
+<img src="assets/banner.png" width="100%" alt="Chase Atlantic — DIE FOR ME banner" /><br />
 <sub>S O F T W A R E &nbsp; E N G I N E E R I N G &nbsp; S T U D E N T &nbsp;&nbsp;·&nbsp;&nbsp; B A C K E N D &nbsp; D E V E L O P E R &nbsp; I N &nbsp; P R O G R E S S</sub>
 </div>
 
@@ -52,6 +52,6 @@ I'm a **Software Engineering student** passionate about building real-world soft
 </div>
 
 <sub>
-🔸 Banner rose: <a href="https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg">Red rose with black background</a> by Laitche (Wikimedia Commons, CC BY-SA 4.0) — duotone treatment.<br />
+🔸 Banner artwork: <a href="https://chaseatlantic.com">Chase Atlantic</a> — <em>DIE FOR ME</em> (single cover), reworked into a banner.<br />
 🔸 Activity pulse is generated from my real contribution calendar — <a href="scripts/generate-pulse.mjs">scripts/generate-pulse.mjs</a>.
 </sub>
