@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.png" width="100%" alt="Chase Atlantic — DIE FOR ME banner" /><br />
+<img src="assets/banner-die-for-me.png" width="100%" alt="Chase Atlantic — DIE FOR ME banner" /><br />
 <sub>S O F T W A R E &nbsp; E N G I N E E R I N G &nbsp; S T U D E N T &nbsp;&nbsp;·&nbsp;&nbsp; B A C K E N D &nbsp; D E V E L O P E R &nbsp; I N &nbsp; P R O G R E S S</sub>
 </div>
 
