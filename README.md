@@ -1,6 +1,6 @@
 <div align="center">
 <img src="assets/banner-die-for-me.png" width="100%" alt="Chase Atlantic — DIE FOR ME banner" /><br />
-<sub>S O F T W A R E &nbsp; E N G I N E E R I N G &nbsp; S T U D E N T &nbsp;&nbsp;·&nbsp;&nbsp; B A C K E N D &nbsp; D E V E L O P E R &nbsp; C H A S E &nbsp; A T L A N T I C &nbsp; L O V E R </sub>
+<sub>S O F T W A R E &nbsp; E N G I N E E R I N G &nbsp; S T U D E N T &nbsp;&nbsp;·&nbsp;&nbsp; B A C K E N D &nbsp; D E V E L O P E R &nbsp;·&nbsp;&nbsp; C H A S E &nbsp; A T L A N T I C &nbsp; L O V E R </sub>
 </div>
 
 ## 01 · About
